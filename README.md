@@ -37,3 +37,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" title="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" title="Maria DB" height="50" />  
 </div>  
+
+ ---
+  
+<div align="center">
+  <a href="https://github.com/nightfury-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightfury-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=nightfury-dev&theme=xcode"/>
+  </a>
+</div>
