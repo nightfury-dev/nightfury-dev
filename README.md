@@ -39,7 +39,7 @@
 </div>  
 
  ---
-  
+  ## Github Stats  
 <div align="center">
   <a href="https://github.com/nightfury-dev">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=nightfury-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -47,5 +47,5 @@
   </a>
 </div>
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=nightfury-dev&theme=dark&no-frame=true&margin-w=30&margin-h=20" />
+   <img src="https://github-profile-trophy.vercel.app/?username=nightfury-dev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div>
