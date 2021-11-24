@@ -41,9 +41,13 @@
  ---
   
 <div align="center">
-  <a href="https://github.com/nightfury-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightfury-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury-dev&layout=compact&langs_count=7&theme=dark"/>
-  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=nightfury-dev&theme=xcode"/>
-  </a>
-</div>
+  <a href="https://github.com/karan36k">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan36k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&langs_count=7&theme=dark"/>
+  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=karan36k&theme=xcode"/>
+
+   
+  ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+
+  
+  </a></div>
