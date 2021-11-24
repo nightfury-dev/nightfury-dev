@@ -44,6 +44,8 @@
   <a href="https://github.com/nightfury-dev">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=nightfury-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury-dev&layout=compact&langs_count=7&theme=dark" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=nightfury-dev&theme=dark" />
   </a>
+</div>
+ <div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=nightfury-dev&theme=dark&no-frame=true&margin-w=30&margin-h=20" />
 </div>
