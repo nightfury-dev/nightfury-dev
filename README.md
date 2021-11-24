@@ -44,9 +44,7 @@
   <a href="https://github.com/nightfury-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightfury-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury-dev&layout=compact&langs_count=7&theme=dark" />
-  <p align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b64f4b46add533e35e5688fd23ae7f516b621277d8926ad728d3db8d4e0ef8f6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d646576647265616d736f6c7574696f6e26636f6c756d6e3d37267468656d653d6f6e656461726b"><img src="https://camo.githubusercontent.com/b64f4b46add533e35e5688fd23ae7f516b621277d8926ad728d3db8d4e0ef8f6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d646576647265616d736f6c7574696f6e26636f6c756d6e3d37267468656d653d6f6e656461726b" data-canonical-src="https://github-profile-trophy.vercel.app/?username=nightfury-dev&amp;column=7&amp;theme=onedark" style="max-width: 100%;">
-  </a>
+  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=nightfury-dev&theme=dark" />
 </p>
 
   
