@@ -7,6 +7,8 @@
 
 <br/>  
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" height="50" />  
